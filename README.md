@@ -35,7 +35,6 @@ git pull origin main
 -Comando que se encarga de descargar los cambios remotos 
 
 ```
-<<<<<<< HEAD
 git clone url_de_github.com
 ```
 -Comando que clona un repositorio creando una carpeta con el mismo nombre
@@ -49,9 +48,10 @@ git branch
 git checkout -b nombre_del_branch
 ```
 -Sirve para crear un branch 
-=======
+
+```
 git checkout nombre_del_branch
 ```
 -Sirve para poder moverme entre ramas
 -Si el checkout no tiene el -b solo es para moverse 
->>>>>>> develop
+
