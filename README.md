@@ -34,3 +34,17 @@ git pull origin main
 ```
 -Comando que se encarga de descargar los cambios remotos 
 
+```
+git clone url_de_github.com
+```
+-Comando que clona un repositorio creando una carpeta con el mismo nombre
+
+```
+git branch
+```
+-Sirve para poder listar los branch que tengo localmente y me dice en cual me encuentro actualmente
+
+```
+git checkout -b nombre_del_branch
+```
+-Sirve para crear un branch 
