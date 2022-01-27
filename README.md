@@ -28,3 +28,9 @@ git push origin main
 git init 
 ```
 -Comando que se realiza al iniciar un proyecto por ende se ejecuta una vez por proyecto
+
+```
+git pull origin main
+```
+-Comando que se encarga de descargar los cambios remotos 
+
