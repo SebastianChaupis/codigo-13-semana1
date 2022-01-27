@@ -34,3 +34,8 @@ git pull origin main
 ```
 -Comando que se encarga de descargar los cambios remotos 
 
+```
+git checkout nombre_del_branch
+```
+-Sirve para poder moverme entre ramas
+-Si el checkout no tiene el -b solo es para moverse 
